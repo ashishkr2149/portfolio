@@ -20,7 +20,7 @@ import {
   tesla,
   shopify,
   carrent,
-  jobit,
+  crypto,
   tripguide,
   threejs,
 } from "../assets";
@@ -236,7 +236,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: crypto,
     source_code_link: "https://github.com/crypto-dashboard",
   },
   {
