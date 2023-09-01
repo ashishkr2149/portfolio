@@ -217,6 +217,7 @@ const projects = [
     ],
     image: carrent,
     source_code_link: "https://github.com/ashishkr2149/smartbrain/",
+    url: "https://crypto-dashboard-6apa.vercel.app/",
   },
   {
     name: "Crypto Dashboard",
@@ -237,7 +238,8 @@ const projects = [
       },
     ],
     image: crypto,
-    source_code_link: "https://github.com/crypto-dashboard",
+    source_code_link: "https://github.com/ashishkr2149/crypto-dashboard",
+    url: "https://crypto-dashboard-6apa.vercel.app/",
   },
   {
     name: "Ecommerce",
@@ -259,6 +261,7 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://github.com/ecommerce-app",
+    url: "https://crypto-dashboard-6apa.vercel.app/",
   },
 ];
 
