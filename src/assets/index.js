@@ -1,5 +1,5 @@
 import logo from "./logo.svg";
-import samrtbrain from './samrtbrain.png'
+import smartbrain from './smartbrain.png'
 import crypto from "./crypto.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
@@ -33,7 +33,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
-  samrtbrain,
+  smartbrain,
   crypto,
   logo,
   backend,
