@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import samrtbrain from './samrtbrain.png'
 import crypto from "./crypto.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
