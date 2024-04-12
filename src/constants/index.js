@@ -122,7 +122,7 @@ const experiences = [
     company_name: "Societe generale Global Solution Centre",
     icon: sggsc,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "August 2023 - Present",
     points: [
       "Improved and enhanced existing codebases, resulting in faster loading time for key application features.",
       "Spearheaded continuous improvement efforts by identifying and resolving bugs in collaboration with cross-functional teams, enhancing overall system stability and user experience.",
