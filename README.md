@@ -35,8 +35,6 @@ HTML 5, CSS 3, JavaScript, React JS, Redux Toolkit, Tailwind CSS, Node JS, Mongo
 ## Communication Panel
 Feel free to use the communication panel in the portfolio to send me any comments, questions, or feedback you have about my portfolio or anything else. I'd love to hear from you!
 
-[Communication Panel]
-
 ## Getting Started
 If you'd like to run this portfolio website locally, follow these steps:
 1. Clone this repository.
@@ -45,7 +43,6 @@ If you'd like to run this portfolio website locally, follow these steps:
 
 ## Contributing
 I welcome contributions to my portfolio website. If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
-
 
 ## Contact
 If you have any questions or want to get in touch, feel free to reach out to me:
