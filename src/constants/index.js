@@ -302,7 +302,7 @@ const projects = [
     ],
     image: taskmanager,
     source_code_link: "https://github.com/ashishkr2149/task-manager",
-    url: "https://task-manager-git-master-ashishkr2149s-projects.vercel.app/",
+    url: "https://task-manager-ashishkr2149s-projects.vercel.app/",
   },
 ];
 
