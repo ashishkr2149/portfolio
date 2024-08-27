@@ -45,7 +45,7 @@ const About = () => {
         Stack Development and along with that has experience in JavaScript, 
         and expertise in frameworks like React.js and Node.js. 
         Being a quick learner I am adept to work in a fast pace 
-        environment dfor the sole purpose of bringing life to ideas.
+        environment for the sole purpose of bringing life to ideas.
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (

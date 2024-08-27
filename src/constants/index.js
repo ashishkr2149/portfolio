@@ -23,7 +23,7 @@ import {
   carrent,
   smartbrain,
   crypto,
-  tripguide,
+  taskmanager,
   threejs,
 } from "../assets";
 
@@ -105,7 +105,7 @@ const technologies = [
   {
     name: "git",
     icon: git,
-  }
+  },
   // {
   //   name: "figma",
   //   icon: figma,
@@ -256,10 +256,32 @@ const projects = [
     source_code_link: "https://github.com/ashishkr2149/crypto-dashboard",
     url: "https://crypto-dashboard-6apa.vercel.app/",
   },
+  // {
+  //   name: "Ecommerce",
+  //   description:
+  //     "A comprehensive Ecommerce app which allows admin to create new categories and products and allows user to view, add them to wacthlist and even continue to checkout with a payment system.",
+  //   tags: [
+  //     {
+  //       name: "mongodb",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "expressjs",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "nodejs",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/ecommerce-app",
+  //   url: "https://crypto-dashboard-6apa.vercel.app/",
+  // },
   {
-    name: "Ecommerce",
+    name: "Task Manager",
     description:
-      "A comprehensive Ecommerce app which allows admin to create new categories and products and allows user to view, add them to wacthlist and even continue to checkout with a payment system.",
+      "This web application lets users register, log in, and manage tasks in To Do, In Progress, and Done sections. Users can see due times and move tasks between sections easily. Stay organized and efficient with this intuitive tool.",
     tags: [
       {
         name: "mongodb",
@@ -270,13 +292,17 @@ const projects = [
         color: "green-text-gradient",
       },
       {
+        name: "react",
+        color: "orange-text-gradient",
+      },
+      {
         name: "nodejs",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/ecommerce-app",
-    url: "https://crypto-dashboard-6apa.vercel.app/",
+    image: taskmanager,
+    source_code_link: "https://github.com/ashishkr2149/task-manager",
+    url: "https://task-manager-git-master-ashishkr2149s-projects.vercel.app/",
   },
 ];
 

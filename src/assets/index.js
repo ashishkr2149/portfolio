@@ -1,5 +1,5 @@
 import logo from "./logo.svg";
-import smartbrain from './smartbrain.png'
+import smartbrain from "./smartbrain.png";
 import crypto from "./crypto.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
@@ -31,7 +31,7 @@ import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import taskmanager from "./taskmanager.png";
 
 export {
   smartbrain,
@@ -64,5 +64,5 @@ export {
   tesla,
   carrent,
   jobit,
-  tripguide,
+  taskmanager,
 };
