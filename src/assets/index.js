@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import fitnesstracker from "./fitnesstracker.png";
 import smartbrain from "./smartbrain.png";
 import crypto from "./crypto.png";
 import backend from "./backend.png";
@@ -26,6 +27,7 @@ import threejs from "./tech/threejs.svg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
+import by from "./company/by.png";
 import sggsc from "./company/sggsc.png";
 import tesla from "./company/tesla.png";
 
@@ -34,6 +36,7 @@ import jobit from "./jobit.png";
 import taskmanager from "./taskmanager.png";
 
 export {
+  fitnesstracker,
   smartbrain,
   crypto,
   logo,
@@ -60,6 +63,7 @@ export {
   meta,
   shopify,
   starbucks,
+  by,
   sggsc,
   tesla,
   carrent,

@@ -21,10 +21,12 @@ import {
   tesla,
   shopify,
   carrent,
+  fitnesstracker,
   smartbrain,
   crypto,
   taskmanager,
   threejs,
+  by,
 } from "../assets";
 
 export const navLinks = [
@@ -74,10 +76,10 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
-  // {
-  //   name: "TypeScript",
-  //   icon: typescript,
-  // },
+  {
+    name: "TypeScript",
+    icon: typescript,
+  },
   {
     name: "React JS",
     icon: reactjs,
@@ -98,10 +100,10 @@ const technologies = [
     name: "MongoDB",
     icon: mongodb,
   },
-  // {
-  //   name: "Three JS",
-  //   icon: threejs,
-  // },
+  {
+    name: "Three JS",
+    icon: threejs,
+  },
   {
     name: "git",
     icon: git,
@@ -110,24 +112,42 @@ const technologies = [
   //   name: "figma",
   //   icon: figma,
   // },
-  // {
-  //   name: "docker",
-  //   icon: docker,
-  // },
+  {
+    name: "docker",
+    icon: docker,
+  },
 ];
 
 const experiences = [
+  {
+    title: "Associate Software Engineer",
+    company_name: "Blue Yonder",
+    icon: by,
+    iconBg: "#383E56",
+    date: "September 2024 - ",
+    points: [
+      "Resolved defects in the Warehouse Management System (WMS), focusing on UI issues and improving functional stability.",
+      "Contributed to robotics automation development in Warehouse Labor Management (WLM) to streamline operations.",
+      "Integrated new policy configurations into the database to support automation features.",
+      "Upgraded UI components and created new backend endpoints to ensure smooth automation workflows.",
+      "Designed database tables and automation commands, and initiated a scheduling system for robotics processes.",
+      "Implemented microservices architecture to boost scalability and enable independent service deployment.",
+    ],
+  },
   {
     title: "Software Engineer",
     company_name: "Societe generale Global Solution Centre",
     icon: sggsc,
     iconBg: "#383E56",
-    date: "August 2023 - Present",
+    date: "August 2023 - September 2024",
     points: [
       "Improved and enhanced existing codebases, resulting in faster loading time for key application features.",
-      "Spearheaded continuous improvement efforts by identifying and resolving bugs in collaboration with cross-functional teams, enhancing overall system stability and user experience.",
-      "Revamped the existing codebase architecture by implementing advanced compression algorithms, resulting in an impressive reduction in Cloud storage space, streamlining data management and optimizing system performance significantly.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Migrated legacy systems from HD Insight to Azure Kubernetes Service (AKS), improving scalability and cutting operational costs.",
+      "Replaced legacy .NET services with Python-based REST APIs, simplifying code and improving performance.",
+      "Built robust data pipelines to manage ingestion, transformation, and storage of large datasets across platforms.",
+      "Architected data computation frameworks using PySpark and Apache Spark, increasing throughput and enabling large-scale analytics.",
+      "Improved site performance by introducing caching mechanisms, reducing server load and enhancing user engagement.",
+      "Established CI/CD pipelines to streamline deployments, reduce errors, and improve system reliability.",
     ],
   },
   // {
@@ -212,6 +232,32 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Fitness Tracker",
+    description:
+      "A responsive web app to log workouts, track fitness progress, and set goals. Features an intuitive UI, interactive charts, and user profiles. Built with modern tech and deployed on Vercel.",
+    tags: [
+      {
+        name: "mongodb",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "expressjs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "react",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "nodejs",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: fitnesstracker,
+    source_code_link: "https://github.com/ashishkr2149/fitness-tracker/",
+    url: "https://fitness-tracker-ashishkr2149s-projects.vercel.app/",
+  },
   {
     name: "Smart Brain",
     description:
